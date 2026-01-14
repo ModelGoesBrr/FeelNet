@@ -49,3 +49,5 @@ mer.audio_model.model.load_weights('audio_model.h5')
 
 The models are currently untrained and would need training on appropriate datasets for accurate emotion recognition!
 ## "Prototype / Proof of Concept"
+
+- **IT IS STILL UNTRAINED.
