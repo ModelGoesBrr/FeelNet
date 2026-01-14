@@ -47,7 +47,7 @@ I've created a comprehensive multimodal emotion recognition system! Here's what 
 - **Prediction fusion** for improved accuracy
 - Visual feedback with bounding boxes and confidence scores
 
-## To Use in Production
+## To Use :
 
 1. **Install dependencies**:
 ```bash
