@@ -1,6 +1,23 @@
 # FeelNet
 Understanding Emotions through Audio-Visual AI
-I'll create a comprehensive multimodal emotion recognition system that combines audio and visual cues for emotion detection.I've created a comprehensive multimodal emotion recognition system! Here's what it includes:
+
+## Problem Statement
+Emotion recognition from a single modality is often inaccurate. This project uses
+both audio (speech) and visual (facial expressions) cues to improve emotion
+classification accuracy.
+
+## SDG Alignment
+SDG 3 – Good Health and Well-Being  
+SDG 4 – Quality Education  
+SDG 9 – Industry, Innovation and Infrastructure
+
+## Tech Stack
+- Python
+- OpenCV
+- TensorFlow / PyTorch
+- Librosa
+
+I've created a comprehensive multimodal emotion recognition system! Here's what it includes:
 
 ## Key Components
 
